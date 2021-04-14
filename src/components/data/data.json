@@ -1,0 +1,178 @@
+[{
+  
+    "id": 1,
+    "name": "Thomas Vermaelen",
+    "username": "Thomas",
+    "position": "Defender",
+    "salary": 55500,
+    "country": "Belgium",
+	"age":"33",
+    "img": "https://i.ibb.co/vvs8Mpw/Thomas.jpg"
+  },
+
+ {
+    "id": 2,
+    "name": "Sergi Roberto",
+    "username": "Roberto",
+    "position": "Midfielder",
+    "salary": 70000,
+    "country": "Belgium",
+	"age":"27",
+    "img": "https://i.ibb.co/C1h8bkq/Sergi-Roberto.jpg"
+  },
+
+
+ {
+    "id": 3,
+    "name": "Samuel Umtiti",
+    "username": "Umtiti",
+    "position": "Defender",
+    "salary": 75000,
+    "country": "France",
+	"age":"23",
+    "img": "https://i.ibb.co/vX4m0tZ/Samuel-Umtiti.jpg"
+  },
+
+
+ {
+    "id": 4,
+    "name": "Rafinha",
+    "username": "Rafael",
+    "position": "Midfielder",
+    "salary": 60000,
+    "country": "Brazil",
+	"age":"24",
+    "img": "https://i.ibb.co/S7dGh7Y/Rafinha.jpg"
+  },
+
+
+ {
+    "id": 5,
+    "name": "Philippe Coutinho",
+    "username": "Coutinho",
+    "position": "Midfielder",
+    "salary": 240000 ,
+    "country": "Brazil",
+	"age":"26",
+    "img": "https://i.ibb.co/wzsBz3b/Philippe-Coutinho.jpg"
+  },
+
+  {
+    "id": 6,
+    "name": "Gerard Pique",
+    "username": "Pique",
+    "position": "Defender",
+    "salary": 165000,
+    "country": "Spain",
+	"age":"32",
+    "img": "https://i.ibb.co/tBt4vtz/peqay.jpg"
+  },
+
+  {
+    "id": 7,
+    "name": "Ousmane Dembele",
+    "username": "Dembele",
+    "position": "Forward",
+    "salary": 220000,
+    "country": "France",
+	  "age":"21",
+    "img": "https://i.ibb.co/sKZhMXM/Ousmane-Dembele.jpg"
+  },
+
+  {
+    "id": 8,
+    "name": "Nelson Semedo",
+    "username": "Semedo",
+    "position": "Defender",
+    "salary": 75000,
+    "country": "Portugal",
+	"age":"23",
+    "img": "https://i.ibb.co/NyjMvh1/Nelson-Semedo.jpg"
+  },
+
+
+ {
+    "id": 9,
+    "name": "Marc Bartra ",
+    "username": "Bartra",
+    "position": "Defender",
+    "salary": 40000 ,
+    "country": "Spain",
+	"age":"25",
+    "img": "https://i.ibb.co/MPcH5fW/Marc-Bartra.jpg"
+  },
+
+
+ {
+    "id": 10,
+    "name": "Marc Andre ter Stegen",
+    "username": "Marc Andre",
+    "position": "Goalkeeper",
+    "salary": 90000,
+    "country": "Germany",
+	"age":"25",
+    "img": "https://i.ibb.co/VVxmGnw/Marc-Andre-ter-Stegen.jpg"
+  },
+
+
+ {
+    "id": 11,
+    "name": "Luis Suarez",
+    "username": "Suarez",
+    "position": "Forward",
+    "salary":290000 ,
+    "country": "Uruguay",
+	"age":"32",
+    "img": "https://i.ibb.co/qnbqbrj/Luis-Suarez.jpg"
+  },
+
+
+ {
+    "id": 12,
+    "name": "Lionel Messi",
+    "username": "Messi",
+    "position": "Forward",
+    "salary": 500000,
+    "country": "Argentina",
+	"age":"31",
+    "img": "https://i.ibb.co/TgTgRw5/Lionel-Messi.jpg"
+  },
+
+
+ {
+    "id": 13,
+    "name": "Kevin Prince Boateng",
+    "username": "Kevin",
+    "position": "Midfielder",
+    "salary":90000 ,
+    "country": "Germany",
+	"age":"32",
+    "img": "https://i.ibb.co/kHrM8cz/Kevin-Prince-Boateng.jpg"
+  },
+
+
+ {
+    "id": 14,
+    "name": "Jordi Alba",
+    "username": "Jordi",
+    "position": "Defender",
+    "salary": 100000,
+    "country": "Spain",
+	"age":"28",
+    "img": "https://i.ibb.co/vdfv6M0/Jordi-Alba.jpg"
+  },
+
+
+ {
+    "id": 15,
+    "name": "Jean Clair Todibo",
+    "username": "Jean",
+    "position": "Defender",
+    "salary": 4741,
+    "country": "France",
+	"age":"19",
+    "img": "https://i.ibb.co/9WNPCdS/Jean-Clair-Todibo.jpg"
+  }
+
+
+]

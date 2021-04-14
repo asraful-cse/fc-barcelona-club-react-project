@@ -1,0 +1,12 @@
+.club-container{
+  
+    display: flex;
+}
+.player-container{
+    width: 64%;
+    margin-right: 10px;
+    margin-left: 20px;
+    border-right: 2px solid rgb(136, 117, 163);
+   
+}
+
